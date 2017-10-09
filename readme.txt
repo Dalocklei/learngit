@@ -4,3 +4,4 @@ third change!
 fourth change!
 create a new branch is quick and simple!
 --no-ff
+test bug branch
